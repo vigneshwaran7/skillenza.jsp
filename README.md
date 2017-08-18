@@ -1,2 +1,2 @@
 # skillenza.jsp
-Uploading Netbeans project to github
+Landing page for data science challenge using HTML and CSS
